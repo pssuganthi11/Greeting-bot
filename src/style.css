@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+.backdiv {
+
+    margin-top: 10px;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+
+}
+
+.backbtn {
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+
+}
